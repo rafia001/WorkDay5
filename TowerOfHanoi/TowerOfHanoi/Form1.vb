@@ -28,4 +28,11 @@ Public Class Form1
 
     End Sub
 
+    Sub main()
+        Throw(1,3,10)
+    End Sub
+
+
+    End Sub
+
 End Class
